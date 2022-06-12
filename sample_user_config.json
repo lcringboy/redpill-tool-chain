@@ -12,7 +12,9 @@
         "SataPortMap": "2",
         "SasIdxMap": "0"
     },
-    "synoinfo": {},
+   "synoinfo": {
+	"maxlanport": "4"
+    },
     "ramdisk_copy": {},
     "extensions": []
 }
