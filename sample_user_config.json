@@ -4,6 +4,10 @@
         "vid": "0x054C",
         "sn": "2021PDN123456",
         "mac1": "f04da20bfa4c",
+        "mac2": "f04da20bfa4e",
+        "mac3": "f04da20bfa50",
+        "mac4": "f04da20bfa52",
+        "netif_num": "4",
         "DiskIdxMap": "00",
         "SataPortMap": "2",
         "SasIdxMap": "0"
