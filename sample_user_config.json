@@ -8,9 +8,6 @@
         "mac3": "001B2131984C",
         "mac4": "001B2131984D",
         "netif_num": "4",
-        "DiskIdxMap": "00",
-        "SataPortMap": "1",
-        "SasIdxMap": "0"
     },
    "synoinfo": {
 	"maxlanport": "4"
