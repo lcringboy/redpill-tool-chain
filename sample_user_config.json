@@ -8,10 +8,10 @@
         "mac3": "001B2131984C",
         "mac4": "001B2131984D",
         "netif_num": "4",
-    },
+                     },
    "synoinfo": {
-	"maxlanport": "4"
-    },
+	      "maxlanport": "4"
+               },
     "ramdisk_copy": {},
     "extensions": []
 }
